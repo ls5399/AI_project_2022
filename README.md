@@ -2,7 +2,7 @@
 
 This is a repo for AI final project.
 
-Tream member:
+Team member:
 
 Liangzhou Su : ls5399@nyu.edu
 
