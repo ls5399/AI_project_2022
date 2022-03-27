@@ -7,3 +7,7 @@ Tream member:
 Liangzhou Su : ls5399@nyu.edu
 
 Ziwei Qiu : zq2047@nyu.edu
+
+
+
+AWS: ZiWei Qiu 
